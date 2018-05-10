@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.header {
+    min-height: 450px;
+    background-color: #fcdb00;
+}
+
+/*start navbar*/
+
+.custom_navbar_brand {}
+
+.custom_navbar_brand span {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.custom_navbar_nav {}
+
+.custom_navbar_nav li a {
+    color: black !important;
+    padding-left: 45px !important;
+    padding-right: 45px !important;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.custom_navbar_nav li a:hover {
+    transition: 1s;
+    transform: scale(1.1);
+    color: black !important;
+}
+
+/*start slider*/
+
+.text_contain h1 {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.text_contain h3 {
+    font-weight: 400;
+    font-size: 20px;
+    color: #313841;
+}
+
+.text_contain p {
+    font-weight: 400;
+    color: #555555;
+    font-size: 16px;
+}
+
+.icon {
+    font-size: 50px;
+    color: black;
+}
+
+.custom_img {
+    border-radius: 15px;
+}
+
+.custom_indicators {
+    bottom: -60px;
+    left: -130px;
+    right: auto;
+    border-radius: 15px;
+}
+
+.custom_slider {
+    padding-top: 25px;
+    padding-bottom: 100px;
+}
+
+.custom_indicators li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+start feature .feature_title {}
+
+.feature_title h1 {
+    font-weight: bold;
+    font-size: 32px;
+    color: black;
+}
+
+.feature_title h3 {
+    font-weight: 400;
+    font-size: 20px;
+    color: #313841;
+}
+
+.icon_feature {
+    font-size: 50px;
+}
+
+.text_feature h1 {
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.text_feature p {
+    color: #898989;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/*start footer*/
+
+.footer {
+    background-color: black;
+    min-height: 350px;
+}
+
+.footer_title h1 {
+    font-weight: bold;
+    font-size: 32px;
+    color: #fcdb00;
+}
+
+.footer_title h3 {
+    color: #898989;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.custom_btn{
+    background: #fcdb00;
+    font-size: 16px;
+    font-weight: bold;
+}
+.icon_footer i{
+    font-size: 42px;
+    color: #fcdb00;
+}
+.common_footer_style p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
